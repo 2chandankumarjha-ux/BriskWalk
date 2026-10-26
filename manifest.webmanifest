@@ -1,0 +1,16 @@
+{
+  "name": "BriskWalk — Bilingual Walking Tracker",
+  "short_name": "BriskWalk",
+  "description": "A private English and Hindi walking tracker with goals, timer, GPS and history.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f7f5",
+  "theme_color": "#087f5b",
+  "lang": "en",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
